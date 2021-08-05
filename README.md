@@ -43,6 +43,7 @@ void loop()
 ```
 
 Credits:
+
 OwnProx
 
 BoolRules: (Original Idea) https://forum.arduino.cc/t/wiring-of-ky-040-rotary-encoder-plus-demo-code/235847/18
